@@ -1,3 +1,11 @@
+2020年12月09日18:12:34  
+使用YUV转码；  
+使用SRS推流；  
+
+原作推荐用的是 OpenGlRtmpActivity;  
+
+
+
 # rtmp-rtsp-stream-client-java
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-rtmp%20rtsp%20stream%20client%20java-green.svg?style=true)](https://android-arsenal.com/details/1/5333)
