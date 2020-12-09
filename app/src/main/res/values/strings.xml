@@ -102,4 +102,6 @@
   <string name="user">User</string>
   <string name="password">Password</string>
   <string name="noise_suppressor">Noise suppressor</string>
+
+  <string name="rtmp_uri">rtmp://192.168.7.89/live/livestream</string>
 </resources>
